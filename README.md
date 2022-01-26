@@ -13,7 +13,9 @@ You need to obtain this key using either using the Chrome WidevineDecryptor plug
 You may configure your Disney+ credentials inside of the `api` folder. Doing so will enable automatic discovery of playlist URLs, meaning you can enter a normal Disney+ URL instead of a master playlist URL.
 
 ### Platform Information
-This is a Windows-only application and there are no plans to port it to other platforms, please do not file issue reports asking for this. If you have completed a platform port,
+This is a Windows-only application and there are no plans to port it to other platforms, please do not file issue reports asking for this.
+
+If you have completed a platform port,
 you are more than welcome to file a pull request and it will be merged into its own branch with due credit.
 
 ### Compatibility Notes
