@@ -28,5 +28,7 @@ Playback issues associated with the fallback filter
 are mostly resolved when remuxing occurs via FFMPEG.
 
 ### Why was this made public?
-This project was developed as part of ongoing research interests and as it stands, it does not serve much purpose sitting around in a private repository. Since the application does not provide decryption keys,
-there is no risk of a DMCA notice and/or revocation of the practises employed to download media.
+This project was developed as part of ongoing research interests and as it stands, it does not serve much purpose sitting around in a private repository.
+
+Since the application does not provide decryption keys,
+there is no risk of a DMCA notice and/or revocation of the practises employed.
