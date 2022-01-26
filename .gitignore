@@ -3,6 +3,18 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Ignore archive files
+*.7z
+*.zip
+*.rar
+*.gz
+*.tar
+*.iso
+*.wim
+*.img
+*.cab
+*.dat
+
 # User-specific files
 *.rsuser
 *.suo
